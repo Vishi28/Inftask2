@@ -1,1 +1,1 @@
-filec2
+print('Hello C')
