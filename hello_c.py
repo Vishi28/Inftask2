@@ -1,1 +1,1 @@
-filec
+print('Hello c')
